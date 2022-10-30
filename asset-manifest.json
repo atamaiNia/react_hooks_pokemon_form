@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react_pokemon-form/static/css/main.7acaea2f.css",
-    "main.js": "/react_pokemon-form/static/js/main.07d3183d.js",
+    "main.css": "/react_pokemon-form/static/css/main.de2786e5.css",
+    "main.js": "/react_pokemon-form/static/js/main.5ca4f261.js",
+    "static/media/error.jpg": "/react_pokemon-form/static/media/error.58be283966228bbe8850.jpg",
+    "static/media/pending.jpg": "/react_pokemon-form/static/media/pending.79f7575ed51cb01aa6e1.jpg",
     "index.html": "/react_pokemon-form/index.html",
-    "main.7acaea2f.css.map": "/react_pokemon-form/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react_pokemon-form/static/js/main.07d3183d.js.map"
+    "main.de2786e5.css.map": "/react_pokemon-form/static/css/main.de2786e5.css.map",
+    "main.5ca4f261.js.map": "/react_pokemon-form/static/js/main.5ca4f261.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.de2786e5.css",
+    "static/js/main.5ca4f261.js"
   ]
 }
