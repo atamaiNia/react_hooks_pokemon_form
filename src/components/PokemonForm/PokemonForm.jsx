@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { ImSearch } from 'react-icons/im';
 import { toast } from 'react-toastify';
-import { Form, Input, BtnWrapper, Btn, BtnText } from './PokemonForm.styled';
+import { Form, Input, Btn, BtnText } from './PokemonForm.styled';
 
 export class PokemonForm extends Component {
   state = {
