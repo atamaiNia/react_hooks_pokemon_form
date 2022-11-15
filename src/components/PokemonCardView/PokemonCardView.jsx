@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import { CardWrapper, PokemonName, List } from './PokemonCardView.styled';
 
-export function PokemonCardView({ pokemon: { sprites, name, stats } }) {
+export default function PokemonCardView({ pokemon: { sprites, name, stats } }) {
   return (
     <CardWrapper>
       <img

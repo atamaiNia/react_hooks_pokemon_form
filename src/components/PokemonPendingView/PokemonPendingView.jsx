@@ -1,10 +1,10 @@
-import { PokemonCardView } from 'components/PokemonCardView/PokemonCardView';
+import PokemonCardView from 'components/PokemonCardView/PokemonCardView';
 import { StyledImSpinner } from './PokemonPendingView.styled';
 import pendingImage from '../pending.jpg';
 import PropTypes from 'prop-types';
 import { PendingWrapper } from './PokemonPendingView.styled';
 
-export function PokemonPendingView({ pokemonName }) {
+export default function PokemonPendingView({ pokemonName }) {
   const pokemon = {
     name: pokemonName,
     sprites: {
